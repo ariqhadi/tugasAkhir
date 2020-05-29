@@ -1,0 +1,4 @@
+epoch 500 : gan_loss = [0.011545872, 0.011033664, 0.5122076] ; discriminator_loss = 0.709950
+epoch 5 : gan_loss = [0.06488067, 0.06339286, 1.4878093] ; discriminator_loss = 0.575839
+epoch 5 : gan_loss = [0.063131325, 0.06146771, 1.6636106] ; discriminator_loss = 0.562428
+epoch 5 : gan_loss = [0.065517634, 0.06325926, 2.2583742] ; discriminator_loss = 0.594116
